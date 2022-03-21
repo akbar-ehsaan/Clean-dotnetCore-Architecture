@@ -1,0 +1,15 @@
+C:\Users\titi\Desktop\InventorySystem\Inventory\Inventory.Application\bin\Debug\net6.0\Inventory.Application.deps.json
+C:\Users\titi\Desktop\InventorySystem\Inventory\Inventory.Application\bin\Debug\net6.0\Inventory.Application.dll
+C:\Users\titi\Desktop\InventorySystem\Inventory\Inventory.Application\bin\Debug\net6.0\ref\Inventory.Application.dll
+C:\Users\titi\Desktop\InventorySystem\Inventory\Inventory.Application\bin\Debug\net6.0\Inventory.Application.pdb
+C:\Users\titi\Desktop\InventorySystem\Inventory\Inventory.Application\bin\Debug\net6.0\Inventory.Domain.dll
+C:\Users\titi\Desktop\InventorySystem\Inventory\Inventory.Application\bin\Debug\net6.0\Inventory.Domain.pdb
+C:\Users\titi\Desktop\InventorySystem\Inventory\Inventory.Application\obj\Debug\net6.0\Inventory.Application.csproj.AssemblyReference.cache
+C:\Users\titi\Desktop\InventorySystem\Inventory\Inventory.Application\obj\Debug\net6.0\Inventory.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\titi\Desktop\InventorySystem\Inventory\Inventory.Application\obj\Debug\net6.0\Inventory.Application.AssemblyInfoInputs.cache
+C:\Users\titi\Desktop\InventorySystem\Inventory\Inventory.Application\obj\Debug\net6.0\Inventory.Application.AssemblyInfo.cs
+C:\Users\titi\Desktop\InventorySystem\Inventory\Inventory.Application\obj\Debug\net6.0\Inventory.Application.csproj.CoreCompileInputs.cache
+C:\Users\titi\Desktop\InventorySystem\Inventory\Inventory.Application\obj\Debug\net6.0\Inventory.Application.csproj.CopyComplete
+C:\Users\titi\Desktop\InventorySystem\Inventory\Inventory.Application\obj\Debug\net6.0\Inventory.Application.dll
+C:\Users\titi\Desktop\InventorySystem\Inventory\Inventory.Application\obj\Debug\net6.0\ref\Inventory.Application.dll
+C:\Users\titi\Desktop\InventorySystem\Inventory\Inventory.Application\obj\Debug\net6.0\Inventory.Application.pdb

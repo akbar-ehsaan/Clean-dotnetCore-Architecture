@@ -1,0 +1,12 @@
+C:\Users\titi\Desktop\InventorySystem\Inventory\Inventory.Domain\bin\Debug\net6.0\Inventory.Domain.deps.json
+C:\Users\titi\Desktop\InventorySystem\Inventory\Inventory.Domain\bin\Debug\net6.0\Inventory.Domain.dll
+C:\Users\titi\Desktop\InventorySystem\Inventory\Inventory.Domain\bin\Debug\net6.0\ref\Inventory.Domain.dll
+C:\Users\titi\Desktop\InventorySystem\Inventory\Inventory.Domain\bin\Debug\net6.0\Inventory.Domain.pdb
+C:\Users\titi\Desktop\InventorySystem\Inventory\Inventory.Domain\obj\Debug\net6.0\Inventory.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\titi\Desktop\InventorySystem\Inventory\Inventory.Domain\obj\Debug\net6.0\Inventory.Domain.AssemblyInfoInputs.cache
+C:\Users\titi\Desktop\InventorySystem\Inventory\Inventory.Domain\obj\Debug\net6.0\Inventory.Domain.AssemblyInfo.cs
+C:\Users\titi\Desktop\InventorySystem\Inventory\Inventory.Domain\obj\Debug\net6.0\Inventory.Domain.csproj.CoreCompileInputs.cache
+C:\Users\titi\Desktop\InventorySystem\Inventory\Inventory.Domain\obj\Debug\net6.0\Inventory.Domain.dll
+C:\Users\titi\Desktop\InventorySystem\Inventory\Inventory.Domain\obj\Debug\net6.0\ref\Inventory.Domain.dll
+C:\Users\titi\Desktop\InventorySystem\Inventory\Inventory.Domain\obj\Debug\net6.0\Inventory.Domain.pdb
+C:\Users\titi\Desktop\InventorySystem\Inventory\Inventory.Domain\obj\Debug\net6.0\Inventory.Domain.csproj.AssemblyReference.cache
